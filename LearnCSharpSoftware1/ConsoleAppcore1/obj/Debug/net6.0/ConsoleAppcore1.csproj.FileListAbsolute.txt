@@ -1,0 +1,15 @@
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\bin\Debug\net6.0\ConsoleAppcore1.exe
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\bin\Debug\net6.0\ConsoleAppcore1.deps.json
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\bin\Debug\net6.0\ConsoleAppcore1.runtimeconfig.json
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\bin\Debug\net6.0\ConsoleAppcore1.dll
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\bin\Debug\net6.0\ConsoleAppcore1.pdb
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.csproj.AssemblyReference.cache
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.AssemblyInfoInputs.cache
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.AssemblyInfo.cs
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.csproj.CoreCompileInputs.cache
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.dll
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\refint\ConsoleAppcore1.dll
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.pdb
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ConsoleAppcore1.genruntimeconfig.cache
+C:\Users\varsha.vm\source\repos\LearnCSharpSoftware1\ConsoleAppcore1\obj\Debug\net6.0\ref\ConsoleAppcore1.dll
